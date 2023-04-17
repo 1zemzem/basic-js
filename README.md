@@ -474,3 +474,5 @@ Write your code in `src/sum-digits.js`.
 are integrated from [Short track 2021 repo](https://github.com/rkhaslarov/rs-school-short-track-2021)
 
 & Thanks [mikhama](https://github.com/mikhama) for assistance!
+#   b a s i c - j s  
+ 
